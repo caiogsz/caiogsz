@@ -8,8 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://caio.zanardiniengenharia.com.br/">Portfólio e projetos</a>
-  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/caiozanardini/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:caio.ghinzelli@gmail.com">Contato</a>
@@ -41,6 +39,6 @@ Os projetos com dados internos ou propriedade intelectual de terceiros são apre
 
 Estou aberto a conversas sobre **automação de processos, engenharia de produto, software aplicado e integração entre sistemas técnicos**.
 
-**[Portfólio](https://caio.zanardiniengenharia.com.br/)** · **[LinkedIn](https://www.linkedin.com/in/caiozanardini/)** · **[E-mail](mailto:caio.ghinzelli@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/caiozanardini/)** · **[E-mail](mailto:caio.ghinzelli@gmail.com)**
 
 <sub>Curitiba e região, Paraná · Brasil</sub>
