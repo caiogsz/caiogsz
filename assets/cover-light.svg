@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Caio Ghinzelli Zanardini</title>
+  <desc id="desc">Identidade visual de engenharia em linho, grafite, cobre e rosa, com linhas técnicas.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#bccdcf" stroke-width=".8" opacity=".72"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9c405b"/>
+      <stop offset="1" stop-color="#ae6246"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" fill="#edf1f0"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <path d="M0 0H1200V340H0Z" fill="none" stroke="#20343b" stroke-width="2"/>
+  <path d="M32 32H52V308H32" fill="none" stroke="#ae6246" stroke-width="4"/>
+  <path d="M65 54H770" fill="none" stroke="#bccdcf" stroke-width="1"/>
+  <path d="M65 270H770" fill="none" stroke="#bccdcf" stroke-width="1"/>
+  <path d="M770 54V270" fill="none" stroke="#bccdcf" stroke-width="1" stroke-dasharray="5 7"/>
+  <text x="67" y="38" fill="#8a4057" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3.5">CZ / ATELIÊ DE ENGENHARIA</text>
+  <rect x="66" y="83" width="116" height="6" fill="#9c405b"/>
+  <text x="64" y="154" fill="#20343b" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="-2">CAIO GHINZELLI</text>
+  <text x="64" y="222" fill="#20343b" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="-2">ZANARDINI</text>
+  <text x="67" y="295" fill="#3a535b" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2">ENGENHARIA MECATRÔNICA  /  SOLUÇÕES REAIS</text>
+  <path d="M833 88H900L939 49H1060" fill="none" stroke="#ae6246" stroke-width="2"/>
+  <path d="M814 233H886L941 289H1138" fill="none" stroke="#9c405b" stroke-width="2"/>
+  <circle cx="974" cy="170" r="107" fill="#ffffff" stroke="#20343b" stroke-width="2"/>
+  <circle cx="974" cy="170" r="88" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <circle cx="974" cy="170" r="69" fill="none" stroke="#9aabad" stroke-width="1" stroke-dasharray="5 7"/>
+  <path d="M974 44V296M848 170H1100" stroke="#bccdcf" stroke-width="1"/>
+  <path d="M974 63V80M974 260V277M867 170H884M1064 170H1081" stroke="#ae6246" stroke-width="4"/>
+  <rect x="936" y="135" width="76" height="70" rx="3" fill="#edf1f0" stroke="#9c405b" stroke-width="2"/>
+  <text x="974" y="185" text-anchor="middle" fill="#20343b" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-5">CZ</text>
+  <circle cx="833" cy="88" r="5" fill="#ae6246"/>
+  <circle cx="814" cy="233" r="5" fill="#9c405b"/>
+  <circle cx="1138" cy="289" r="5" fill="#9c405b"/>
+  <text x="1115" y="55" fill="#526870" font-family="Consolas,monospace" font-size="12" letter-spacing="1">06 / PUCPR</text>
+  <text x="1165" y="321" text-anchor="end" fill="#526870" font-family="Consolas,monospace" font-size="12" letter-spacing="1">CAD · EDA · ERP</text>
+</svg>
